@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# output dir
+output/
+pipeline_out/
+output_ben.png
 # Distribution / packaging
 .Python
 build/
